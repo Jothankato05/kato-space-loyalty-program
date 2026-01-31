@@ -1,0 +1,9 @@
+[package]
+name = "kato_loyalty"
+version = "0.0.1"
+[dependencies]
+Sui = { git = "https://github.com/MystenLabs/sui.git", subdir = "crates/sui-framework/packages/sui-framework", rev = "devnet" }
+[addresses]
+kato_loyalty = "0x0"
+[environments]
+devnet = "3ac83284"

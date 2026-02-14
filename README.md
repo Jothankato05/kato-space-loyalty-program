@@ -55,4 +55,4 @@ To serve the production-ready frontend:
 - **Wallet Support**: `@mysten/dapp-kit`
 
 ---
-Built with by Jothan Jerry Kato for Primers Corporation.
+Built by Jothan Jerry Kato for Primers Corporation.

@@ -1,8 +1,8 @@
-# Kato Space Loyalty Program 🚀
+# Kato Space Loyalty Program 
 
 Kato Space is a premium, tokenized loyalty platform built on the Sui blockchain. It enables businesses to launch high-performance loyalty programs where points are real digital assets owned by customers.
 
-## ✨ Features
+##  Features
 
 - **Glassmorphic UI**: High-end, modern dashboard for both businesses and customers.
 - **Tokenized Points**: Loyalty points are on-chain objects, ensuring transparency and ownership.
@@ -10,14 +10,14 @@ Kato Space is a premium, tokenized loyalty platform built on the Sui blockchain.
 - **Tiered Progress**: Visual tracking for customer status upgrades (e.g., Silver to Gold).
 - **Secure Architecture**: Business capabilities (Cap) ensure only authorized entities can issue points.
 
-## 📁 Project Structure
+##  Project Structure
 
 - `/contracts`: Sui Move smart contracts.
 - `/frontend`: React + Vite + Tailwind CSS application.
 
 ---
 
-## 🚀 Launch Guide
+##  Launch Guide
 
 ### 1. Smart Contract Deployment
 To launch the backend on Sui (Devnet/Testnet/Mainnet):
@@ -45,7 +45,7 @@ To serve the production-ready frontend:
 
 ---
 
-## 🛠️ Technology Stack
+##  Technology Stack
 
 - **Smart Contracts**: Sui Move
 - **Frontend**: React (v19), Vite (v7)
@@ -55,4 +55,4 @@ To serve the production-ready frontend:
 - **Wallet Support**: `@mysten/dapp-kit`
 
 ---
-Built with ❤️ by Antigravity for Kato Space.
+Built with by Jothan Jerry Kato for Primers Corporation.
